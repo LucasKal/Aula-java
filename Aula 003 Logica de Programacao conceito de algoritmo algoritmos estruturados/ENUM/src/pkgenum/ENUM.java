@@ -18,7 +18,7 @@ public class ENUM {
 
     public static void main(String[] args) {
         TipoDeFruta Fruta = new TipoDeFruta();
-        Fruta.Type = TipoDeFruta.TipoFruta.banana;
+        Fruta.Type = TipoDeFruta.TipoFruta.laranja;
         System.out.println("Fruta: " + Fruta.Type);
     }
     
